@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.workershigh.flagshop_user_app",
+      "sha256_cert_fingerprints": [
+        "32:77:31:07:F0:48:7F:96:8B:8A:08:78:4F:7F:D0:77:9C:89:6C:F3:A0:B9:86:92:6B:D6:49:BF:6C:FC:63:4D"
+      ]
+    }
+  }
+]
