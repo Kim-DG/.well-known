@@ -1,11 +1,6 @@
 [
   {
     "relation": ["delegate_permission/common.handle_all_urls"],
-    "source": {
-      "web": {
-        "site": "https://kim-dg.github.io"
-      }
-    },
     "target": {
       "namespace": "android_app",
       "package_name": "com.workershigh.flagshop_user_app",
